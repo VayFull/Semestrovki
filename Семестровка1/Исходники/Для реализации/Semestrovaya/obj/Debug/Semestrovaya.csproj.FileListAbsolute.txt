@@ -1,0 +1,14 @@
+C:\Users\Igor\source\repos\Semestrovaya\Semestrovaya\bin\Debug\Semestrovaya.exe.config
+C:\Users\Igor\source\repos\Semestrovaya\Semestrovaya\bin\Debug\Semestrovaya.exe
+C:\Users\Igor\source\repos\Semestrovaya\Semestrovaya\bin\Debug\Semestrovaya.pdb
+C:\Users\Igor\source\repos\Semestrovaya\Semestrovaya\obj\Debug\Semestrovaya.csprojAssemblyReference.cache
+C:\Users\Igor\source\repos\Semestrovaya\Semestrovaya\obj\Debug\Semestrovaya.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\Semestrovaya\Semestrovaya\obj\Debug\Semestrovaya.exe
+C:\Users\Igor\source\repos\Semestrovaya\Semestrovaya\obj\Debug\Semestrovaya.pdb
+C:\Users\Igor\Desktop\Семестровка\Исходники\Для реализации\Semestrovaya\bin\Debug\Semestrovaya.exe.config
+C:\Users\Igor\Desktop\Семестровка\Исходники\Для реализации\Semestrovaya\bin\Debug\Semestrovaya.exe
+C:\Users\Igor\Desktop\Семестровка\Исходники\Для реализации\Semestrovaya\bin\Debug\Semestrovaya.pdb
+C:\Users\Igor\Desktop\Семестровка\Исходники\Для реализации\Semestrovaya\obj\Debug\Semestrovaya.csprojAssemblyReference.cache
+C:\Users\Igor\Desktop\Семестровка\Исходники\Для реализации\Semestrovaya\obj\Debug\Semestrovaya.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\Семестровка\Исходники\Для реализации\Semestrovaya\obj\Debug\Semestrovaya.exe
+C:\Users\Igor\Desktop\Семестровка\Исходники\Для реализации\Semestrovaya\obj\Debug\Semestrovaya.pdb
